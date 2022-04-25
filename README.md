@@ -8,11 +8,14 @@ My repos: <br/>
 📘 mysql_book_exercises <br/>
 *Contains my solutions for exercises from 'Murach's MySQL' book* <br/>
 
-📗 mysql_data_analysis <br/>
+📘 mysql_data_analysis <br/>
 *Contains examples & Solutions from data analysis courses* <br/>
 
-📙 mysql_database_administration <br/>
+📘 mysql_database_administration <br/>
 *Contains examples & Solutions from database administration courses* <br/>
+
+📙 mspowerbi_projects <br/>
+*This repository contains several projects made in MS Power BIs - STILL UNDER CONSTRUCTION* <br/>
 
 ----------------------------------------------------------
 
