@@ -15,7 +15,7 @@ My repos: <br/>
 *Contains examples & Solutions from database administration courses* <br/>
 
 📙 mspowerbi_projects <br/>
-*This repository contains several projects made in MS Power BIs - STILL UNDER CONSTRUCTION* <br/>
+*This repository contains several projects made in MS Power BI - UNDER CONSTRUCTION!!!* <br/>
 
 ----------------------------------------------------------
 
