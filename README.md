@@ -1,5 +1,5 @@
 👋 Hi, I’m Pete <br/>
-🌱 I’m currently learning MySQL & MS Power BI
+🌱 I’m currently learning mostly MySQL & MS Power BI, but you may find me using ETL tools like Alteryx or in DWH field
 
 ----------------------------------------------------------
 
@@ -15,15 +15,18 @@ My repos: <br/>
 *Contains examples & Solutions from database administration courses* <br/>
 
 📙 mspowerbi_projects <br/>
-*This repository contains several projects made in MS Power BI - UNDER CONSTRUCTION!!!* <br/>
+*This repository contains several projects made in MS Power BI* <br/>
 
 ----------------------------------------------------------
+
+
 
 Languages and Tools: 
 <br/>
 <br/>
 <img align="left" alt="MySQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" />
-<img align="left" alt="PowerBI" width="19px" src="https://github.com/marclelijveld/Power-BI-Icons/blob/main/SVG/PowerBI.svg" style="padding-right:10px;" />
+<img align="left" alt="PowerBI" width="19px" src="https://github.com/marclelijveld/Power-BI-Icons/blob/main/SVG/PowerBI.svg" style="padding-right:10px;" /> 
+<img align="left" alt="Jira" width="26px" src="https://avatars.githubusercontent.com/u/12972388?s=200&v=4" />
 <img align="left" alt="Excel" width="26px" src="https://github.com/sempostma/office365-icons/blob/master/svg/excel.svg" style="padding-right:10px;" />
 <img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Jira" width="26px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/jira/jira-original.svg" style="padding-right:10px;" />
