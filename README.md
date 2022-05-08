@@ -1,5 +1,5 @@
 👋 Hi, I’m Pete <br/>
-🌱 I’m currently learning mostly MySQL & MS Power BI, but you may find me using ETL tools like Alteryx or in DWH field
+🌱 I’m currently learning mostly MySQL & MS Power BI, but you may find me using ETL tools like Alteryx
 
 ----------------------------------------------------------
 
