@@ -19,8 +19,6 @@ My repos: <br/>
 
 ----------------------------------------------------------
 
-
-
 Languages and Tools: 
 <br/>
 <br/>
@@ -40,6 +38,16 @@ I'm also familiar with:
 <img align="left" alt="Visual Studio Code" width="26px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Matlab" width="26px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/matlab/matlab-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Jupyter" width="26px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/jupyter/jupyter-original.svg" style="padding-right:10px;" />
+<br/>
+
+----------------------------------------------------------
+
+🏆 CodeWars:<br/>
+<br/>
+<img align="left" alt="CodeWars" width="300px" src="https://www.codewars.com/users/SPete/badges/large" style="padding-right:10px;" />
+<br/>
+<br/>
+Profile Link: https://www.codewars.com/users/SPete 
 
 
 <!---
