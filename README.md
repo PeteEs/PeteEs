@@ -17,6 +17,9 @@ My repos: <br/>
 📙 mspowerbi_projects <br/>
 *This repository contains several projects made in MS Power BI* <br/>
 
+📗 postgresql_book_exercises <br/>
+*This repo contains my solutions for exercises from ' The Applied SQL Data Analytics Workshop'* - UNDER CONSTRUCTION! <br/>
+
 ----------------------------------------------------------
 
 Languages and Tools: 
