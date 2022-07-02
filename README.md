@@ -26,7 +26,7 @@ Languages and Tools:
 <br/>
 <br/>
 <img align="left" alt="MySQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" />
-<img align="left" alt="PowerBI" width="19px" src="https://github.com/marclelijveld/Power-BI-Icons/blob/main/SVG/PowerBI.svg" style="padding-right:10px;" /> 
+<img align="left" alt="PowerBI" width="19px" src="https://github.com/microsoft/PowerBI-Icons/blob/main/PNG/Power-BI.png?raw=true" style="padding-right:10px;" /> 
 <img align="left" alt="Jira" width="26px" src="https://avatars.githubusercontent.com/u/12972388?s=200&v=4" />
 <img align="left" alt="Excel" width="26px" src="https://github.com/sempostma/office365-icons/blob/master/svg/excel.svg" style="padding-right:10px;" />
 <img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />
