@@ -5,6 +5,9 @@
 
 My repos: <br/>
 
+📗 tsql_book_exercises <br/>
+*This repo contains my solutions for exercises from 'T-SQL Fundamentals' book*
+
 📘 mysql_book_exercises <br/>
 *Contains my solutions for exercises from 'Murach's MySQL' book* <br/>
 
@@ -16,9 +19,6 @@ My repos: <br/>
 
 📙 mspowerbi_projects <br/>
 *This repository contains several projects made in MS Power BI* <br/>
-
-📗 postgresql_book_exercises <br/>
-*This repo contains my solutions for exercises from ' The Applied SQL Data Analytics Workshop'* - UNDER CONSTRUCTION! <br/>
 
 ----------------------------------------------------------
 
