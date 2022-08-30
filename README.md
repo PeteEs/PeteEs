@@ -20,6 +20,9 @@ My repos: <br/>
 📙 mspowerbi_projects <br/>
 *This repository contains several projects made in MS Power BI* <br/>
 
+📒 python_book_exercises <br/>
+*This repository contains my solutions for exercises from 'Python Crash Course' book* <br/>
+
 ----------------------------------------------------------
 
 🔨 Tools: 
