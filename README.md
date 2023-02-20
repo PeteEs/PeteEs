@@ -8,13 +8,13 @@ My repos: <br/>
 📗 tsql_book_exercises <br/>
 *This repo contains my solutions for exercises from 'T-SQL Fundamentals' book*
 
-📘 mysql_book_exercises <br/>
+📕 mysql_book_exercises <br/>
 *Contains my solutions for exercises from 'Murach's MySQL' book* <br/>
 
-📘 mysql_data_analysis <br/>
+📕 mysql_data_analysis <br/>
 *Contains examples & Solutions from data analysis courses* <br/>
 
-📘 mysql_database_administration <br/>
+📕 mysql_database_administration <br/>
 *Contains examples & Solutions from database administration courses* <br/>
 
 📙 mspowerbi_projects <br/>
@@ -23,23 +23,23 @@ My repos: <br/>
 📒 python_book_exercises <br/>
 *This repository contains my solutions for exercises from 'Python Crash Course' book* <br/>
 
+📘 azure_databricks_with_github_actions <br/>
+*Contains Examples & Solutions from Azure Databricks course with GitHub Actions* <br/>
+
+📘 azure_devops_for_adf <br/>
+*Azure DevOps CICD for Azure Data Factory - repository* <br/>
+
+📘 azure_synapse_exercises <br/>
+*Contains Examples & Solutions from Azure Synapse course* <br/>
+
 ----------------------------------------------------------
 
 🔨 Tools: 
-<br/>
-<br/>
-<img align="left" alt="MySQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" />
-<img align="left" alt="TSQL" width="26px" src="https://img.icons8.com/color/452/microsoft-sql-server.png" style="padding-right:10px;" /> <br/>
-<br/>
-<img align="left" alt="DataB" width="26px" src="https://avatars.githubusercontent.com/u/4998052?s=200&v=4" style="padding-right:10px;" />
-<img align="left" alt="Python" width="26px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/python/python-original.svg" style="padding-right:10px;" />
-<img align="left" alt="Spark" width="26px" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/apache_spark_logo_icon_170560.png" style="padding-right:10px;" /> <br/>
-<br/>
-<img align="left" alt="AzureDF" width="26px" src="https://github.com/benc-uk/icon-collection/blob/master/azure-icons/Data-Factory.svg" style="padding-right:10px;" />
-<img align="left" alt="AzureSQL" width="26px" src="https://github.com/benc-uk/icon-collection/blob/master/azure-icons/SQL-Database.svg" style="padding-right:10px;" />
-<img align="left" alt="AzureLA" width="26px" src="https://github.com/benc-uk/icon-collection/blob/master/azure-icons/Logic-Apps.svg" style="padding-right:10px;" /> <br/> <br/>
-<img align="left" alt="PowerBI" width="19px" src="https://github.com/microsoft/PowerBI-Icons/blob/main/PNG/Power-BI.png?raw=true" style="padding-right:10px;" /> <br/>
-
+- Azure Data Factory
+- Azure Databricks
+- Azure Synapse
+- Azure DevOps
+- Power BI
 
 ----------------------------------------------------------
 
